@@ -8,3 +8,4 @@ docroot/sites/*/private
 acquia-files
 # Ignore the symlink directory on Windows
 docroot/sites/webnydemo.dd/*
+docroot/sites/buildamoduled7.dd/
